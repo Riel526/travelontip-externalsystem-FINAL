@@ -1,0 +1,15 @@
+http:
+  listener:
+    host: "localhost"
+    port: "9081"
+    path: "/travelOnTipCall/{serviceType}"
+    
+db:
+  oracle:
+    host: "sql12.freesqldatabase.com"
+    port: "3306"
+    username: "sql12597803"
+    password: "IscUK7zZdw"
+    instance: ""
+    service: "ORCLCDB.localdomain"
+    
